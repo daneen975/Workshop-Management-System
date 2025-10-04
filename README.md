@@ -20,4 +20,3 @@ A React-based workshop registration system with automatic waitlist management.
 3. Run `npm start`
 4. Open http://localhost:3000
 
-## Live Demo
