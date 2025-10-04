@@ -2,6 +2,9 @@
 
 A React-based workshop registration system with automatic waitlist management.
 
+## Live Demo
+**[Launch Application →](https://workshop-management-system-one.vercel.app/)**
+
 ## Features
 - Student registration with capacity enforcement
 - Automatic waitlist processing
